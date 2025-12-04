@@ -1,1 +1,3 @@
-# dsci100_project_final_report
+# DSCI 100 Project Final Report
+
+Welcome to our project final report GitHub!
